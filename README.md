@@ -1,36 +1,43 @@
-# Hi there, I'm a Full-Stack MERN Developer! 👋
+# Hi there, I'm Babar Ali! 👋
 
-A passionate software engineer focused on building secure, high-performance web applications, scalable database architectures, and responsive user interfaces using the MERN stack.
+A passionate **Full-Stack MERN Developer** focused on building secure, high-performance web applications, scalable database architectures, and responsive user interfaces.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-- **Front-End:** React.js, JavaScript (ES6+), HTML5, CSS3, Flexbox, Grid
-- **Back-End:** Node.js, Express.js, REST APIs, Axios
-- **Database & Security:** MongoDB, Mongoose, JWT (JSON Web Tokens), Password Hashing
-- **Tools & Dev:** Git, GitHub, Version Control, Chrome DevTools
+
+| Layer | Technologies |
+| :--- | :--- |
+| **Front-End** | React.js, JavaScript (ES6+), HTML5, CSS3, Flexbox, Grid |
+| **Back-End** | Node.js, Express.js, REST APIs, Axios |
+| **Database & Security** | MongoDB, Mongoose, JWT (JSON Web Tokens), Salted Password Hashing |
+| **Tools & Dev** | Git, GitHub, Version Control, Chrome DevTools, Vercel |
 
 ---
 
 ## 🚀 Featured Full-Stack Projects
 
-### 📊 [Coin-Bounce](LINK_TO_REPO)
-*A full-stack MERN platform utilizing JWT authentication and Axios to deliver secure, real-time cryptocurrency data tracking, dynamic blogs, and Web3 articles.*
+### 📊 [Coin-Bounce](https://github.com/babar123ali/coin-bounce)
+* **Description:** A full-stack MERN platform delivering secure, real-time cryptocurrency data tracking, dynamic blogs, and Web3 articles.
+* **Key Features:** JWT authentication, Axios API calls, live market asset tracking.
+* **Live Demo:** [coin-bounce-liard.vercel.app](https://vercel.app)
 
-### 🛒 [Full-Scale E-Commerce Platform](LINK_TO_REPO)
-*A production-ready, full-stack e-commerce application featuring dynamic product cataloging, a stateful shopping cart, secure user checkout, and an order management dashboard.*
+### ⚡ [NexAudit — Website Performance Auditor](https://github.com/babar123ali/NexAudit)
+* **Description:** A full-stack MERN utility application that performs instant web performance audits and core metric analysis by parsing public website URLs.
+* **Key Features:** Web parsing architecture, metric calculation engine, clean data visualization dashboard.
+* **Live Demo:** [nexaudit-app.vercel.app](https://vercel.app)
 
-### ⚡ [Website Performance Auditor](LINK_TO_REPO)
-*A full-stack MERN utility application that performs instant web performance audits and core metric analysis by parsing any public website URL.*
+### 🔒 [MERN Authentication Blueprint](https://github.com/babar123ali/registerLogin)
+* **Description:** A robust backend-focused template featuring secure user registration and login flows.
+* **Key Features:** Salted password hashing, JWT-based state management, and protected API routing.
 
-### 🔒 [MERN Authentication Blueprint](LINK_TO_REPO)
-*A robust, full-stack MERN authentication system featuring secure user registration, salted password hashing, JWT-based state management, and protected API routing.*
-
-### 📝 [Retro Task Manager](LINK_TO_REPO)
-*A sleek, wood-and-metal themed web task manager built with vanilla HTML, CSS, and JavaScript featuring localStorage autosave and native drag-and-drop reordering.*
+### 📝 [Retro Task Manager](https://github.com/babar123ali/retro-todo-app)
+* **Description:** A sleek, wood-and-metal themed web task manager.
+* **Key Features:** Built with vanilla HTML, CSS, and JavaScript featuring localStorage autosave.
 
 ---
 
-## 📫 How to Reach Me
-- 💼 Let's connect on **https://www.linkedin.com/in/babar-ali-0a1455319/** (Add your link here!)
-- ✉️ Drop me an email at **babarali11377@gmail.com**
+## 📫 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/babar-ali-0a1455319](https://www.linkedin.com/in/babar-ali-0a1455319/)
+* ✉️ **Email:** babarali11377@gmail.com
